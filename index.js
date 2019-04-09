@@ -35,6 +35,8 @@ const PORT = process.env.PORT || 4000;
 // })
 app.listen(PORT, () => {
   console.log(`listening on ${PORT}`);
+  console.log("test");
 });
 
-// mongodb://localhost:27017/myapp
+// mongodb://localhost:27017/myapp\
+//checkin
